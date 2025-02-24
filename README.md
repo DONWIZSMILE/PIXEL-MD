@@ -1,6 +1,6 @@
 # WhatsApp MD User Bot
 
-A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage more than one bot on the same deployment.
+*PIXEL-MD* is a fast, reliable, and feature-packed multi-device bot designed to enhance your experience. Whether you need automation, moderation, or just a smooth and responsive bot, PixelMD is here to deliver. Built for efficiency and performance, it works seamlessly across multiple devices, ensuring uninterrupted functionality whenever you need it..
 
 ## Important Links
 
@@ -61,7 +61,7 @@ A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage
     ```sh
     echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
     PREFIX = .
-    STICKER_PACKNAME = LyFE
+    STICKER_PACKNAME = DONWIZ
     ALWAYS_ONLINE = false
     RMBG_KEY = null
     LANGUAG = en
